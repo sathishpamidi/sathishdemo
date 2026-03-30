@@ -1,1 +1,2 @@
 this is a sample text file which will be pushed into github
+adding content directly in the github
